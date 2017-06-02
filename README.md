@@ -13,6 +13,7 @@
   2. search result
   
   ![Image of search](https://github.com/a93701011/Scraping/blob/master/pic/search.PNG)
+  
 ### Code
 scarpe, extract, parse information
 ```python
