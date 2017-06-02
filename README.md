@@ -7,10 +7,10 @@
 1. add all daily highlight news from [端傳媒](https://theinitium.com/)
 2. view the news 
 3. search new with the keyword
-  1. search keyword : 主義
+  * search keyword : 主義
   
   ![Image of search](https://github.com/a93701011/Scraping/blob/master/pic/sr_kword.PNG)
-  2. search result
+  * search result
   
   ![Image of search](https://github.com/a93701011/Scraping/blob/master/pic/search.PNG)
   
