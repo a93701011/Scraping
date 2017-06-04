@@ -1,4 +1,4 @@
-# Scraping news from website
+# Scraping the news from the website
 ### Run application
 ```
   $ python new.py  #import news
@@ -18,6 +18,7 @@
 1. jeiba analysis
 2. view the news
   * view the contenxt keys form the jieba analysis package
+  
   ![Image of analysis](https://github.com/a93701011/Scraping/blob/master/pic/keys_word.PNG)
   
 ### Code
