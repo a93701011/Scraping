@@ -22,7 +22,7 @@ class Daily_news(Model):
     title = CharField(max_length = 255)
     content = TextField()
     timestamp = DateTimeField(default = datetime.datetime.now)
-    
+    keys = TextField()
     class Mete:
         database = db 
 
@@ -95,6 +95,8 @@ def view_entries(search_query = None ):
         print("="*len(timestamp))
         print(entry.title)
         print(entry.content)
+        print("keys:")
+        print(entry.keys)
         print("\n\n"+"="*len(timestamp))
         print("n) next content")
         print("d) delete the entry")
