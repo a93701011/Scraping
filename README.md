@@ -15,7 +15,10 @@
   
   ![Image of search](https://github.com/a93701011/Scraping/blob/master/pic/search.PNG)
 ### link loop Functions
-1. 擷取網頁中所有連接並逐一去訪問
+1. go throgh all the branch of the website
+   like 端傳媒->圓桌->裡面所有新聞
+   
+   ![Image of link](https://github.com/a93701011/WebScraping/blob/master/pic/cat_%20group.PNG)
 
 ### analysis Functions
 1. jeiba analysis
