@@ -25,7 +25,7 @@
   ![Image of analysis](https://github.com/a93701011/Scraping/blob/master/pic/keys_word.PNG)
   
 ### Code
-link loop
+* link loop
 
 ```python
 def get_link():
